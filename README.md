@@ -1,4 +1,4 @@
-<img src="https://www.fastweb.it/var/storage_feeds/cms20/media/fwb_wbce_cms20_fwplus/879/879cd0c05e3ead981b5b5ad6ac1d8a4c/Cosa%20far%C3%A0%20un%20developer%20nel%20futuro_%201.jpg" alt="Developer" width="500" height="600">
+<img src="https://www.fastweb.it/var/storage_feeds/cms20/media/fwb_wbce_cms20_fwplus/879/879cd0c05e3ead981b5b5ad6ac1d8a4c/Cosa%20far%C3%A0%20un%20developer%20nel%20futuro_%201.jpg" alt="Developer" width="1000" height="500">
 <h1 align="center">Hi 👋, I'm Luca Campo</h1>
 <h3 align="center">A passionate frontend developer from Italy</h3>
 
