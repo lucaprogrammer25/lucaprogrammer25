@@ -1,6 +1,6 @@
 <img src="https://www.fastweb.it/var/storage_feeds/cms20/media/fwb_wbce_cms20_fwplus/879/879cd0c05e3ead981b5b5ad6ac1d8a4c/Cosa%20far%C3%A0%20un%20developer%20nel%20futuro_%201.jpg" alt="Developer" width="1000" height="500">
 <h1 align="center">Hi 👋, I'm Luca Campo</h1>
-<h3 align="center">A passionate frontend developer from Italy</h3>
+<h3 align="center">A passionate fullstack web developer from Italy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucaprogrammer225&label=Profile%20views&color=0e75b6&style=flat" alt="lucaprogrammer225" /> </p>
 
