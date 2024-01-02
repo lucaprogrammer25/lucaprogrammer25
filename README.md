@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently working on [PC-FORGE](https://github.com/andreesa3/pc-forge-project)
 
-- 🌱 I’m currently learning **Node.JS**
-
 - 📫 How to reach me **luca.campo225@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
